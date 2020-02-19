@@ -1,4 +1,4 @@
-/// RITIK DAGAR ///
+### RITIK DAGAR ///
 
 ### Exploratory Data Analysis
 # Principle 1: Show comparisons - a 'is relative to' b
